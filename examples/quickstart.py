@@ -1,12 +1,6 @@
 from datetime import datetime, timezone
 
-from cryptoradar import (
-    BacktestConfig,
-    Candle,
-    Side,
-    run_backtest,
-)
-
+from cryptoradar import BacktestConfig, Candle, Side, run_backtest
 
 candles = [
     Candle(datetime(2026, 1, 1, 0, 0, tzinfo=timezone.utc), 100, 101, 99, 100, 1000),

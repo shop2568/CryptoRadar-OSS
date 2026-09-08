@@ -1,2 +1,0 @@
-﻿exchange,symbol,entry_time,錯誤,year,variant
-Bitget,BGB/USDT:USDT,2025-01-23 15:00:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2024,V188_CONTROL

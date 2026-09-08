@@ -3,10 +3,9 @@ from datetime import datetime, timezone
 from cryptoradar import (
     BacktestConfig,
     Candle,
-    run_backtest,
     Side,
+    run_backtest,
 )
-
 
 
 candles = [

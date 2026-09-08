@@ -1,0 +1,8 @@
+﻿exchange,symbol,entry_time,錯誤,year,variant
+Bitget,QNTSTOCK/USDT:USDT,2026-07-01 13:45:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL
+Bitget,INFQ/USDT:USDT,2026-07-13 05:30:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL
+Bitget,AXON/USDT:USDT,2026-07-13 16:00:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL
+Bitget,UNH/USDT:USDT,2026-07-17 13:30:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL
+Bitget,HUMA/USDT:USDT,2026-08-05 15:15:00+00:00,RuntimeError: 跨交易所價位轉換失敗,2025,V188_CONTROL
+BingX,NCCO7241NATGAS2USD/USDT:USDT,2026-06-13 04:15:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL
+Bitget,TKO/USDT:USDT,2026-07-24 13:45:00+00:00,RuntimeError: 幣安沒有同標的，正式雷達不會下單,2025,V188_CONTROL

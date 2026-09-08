@@ -1,0 +1,12 @@
+{
+  "selected": 94,
+  "complete": 91,
+  "missing": 3,
+  "source_count": 106,
+  "validation_selection_contamination": false,
+  "source_sha": {
+    "features.py": "13368ff04e676984a1859ef6bb88be411e04db47b1f74adda4005344eb255015",
+    "PROTOCOL.md": "1c35bfdb65b98c69c7c9d18791ac6b080d39619249d982be0fa2770fdebcb7b8",
+    "audit.py": "bf81edbed6e7850783d5b2f09270f3d864bde0cacce5c27be8a6d4b1f79ceed8"
+  }
+}

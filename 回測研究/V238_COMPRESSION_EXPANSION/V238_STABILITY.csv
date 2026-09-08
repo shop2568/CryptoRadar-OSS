@@ -1,0 +1,17 @@
+﻿family,state,local_top1_top3_stable,top5_positive_both_years,cross_exchange_proven,winner_retention_90_possible,stable_eligible
+compression,EXPANDING_ALREADY,False,False,False,False,False
+compression,MILD_COMPRESSION,False,False,False,False,False
+compression,NO_COMPRESSION,False,False,False,True,False
+entry_mode,均線假跌破站回,False,False,False,False,False
+entry_mode,均線假跌破站回_延後一根確認,False,False,False,False,False
+entry_mode,壓縮早突破,False,False,False,False,False
+quality,CLEAN_EXPANSION,False,False,False,False,False
+quality,WEAK_BREAK,True,True,False,False,False
+transition,HEALTHY_TRANSITION,False,False,False,False,False
+transition,NO_BASE_BREAKOUT,False,False,False,False,False
+transition,SPIKE_BREAKOUT,False,False,False,False,False
+transition,WEAK_TRANSITION,False,False,False,False,False
+volume_state,EXHAUSTED_HIGH_VOLUME,False,False,False,True,False
+volume_state,FLAT,False,False,False,False,False
+volume_state,HEALTHY_BUILD,False,False,False,False,False
+volume_state,SUDDEN_SPIKE_ONLY,False,False,False,False,False

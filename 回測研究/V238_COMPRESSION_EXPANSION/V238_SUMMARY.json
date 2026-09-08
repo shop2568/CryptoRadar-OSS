@@ -1,0 +1,13 @@
+{
+  "status": "FAILED_\u7dad\u6301V188",
+  "phase1": "V238_FAILED_NO_STABLE_BREAKOUT_QUALITY_SIGNAL",
+  "qualification": "No signal meets full cross-year/concentration/exchange and winner-retention requirements; some local descriptive separation exists.",
+  "selected_variant": null,
+  "validation": "NOT_RUN",
+  "tests": "8/8",
+  "source_opportunities": 106,
+  "research_trades": 94,
+  "complete": 91,
+  "missing": 3,
+  "selection_contamination": false
+}
